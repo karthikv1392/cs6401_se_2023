@@ -1,0 +1,146 @@
+{"0": {
+    "doc": "Just the Class",
+    "title": "Just the Class",
+    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | announcements, | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is a template that extends the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as: . | automatic navigation structure, | instant, full-text search and page indexing, | and a set of UI components and authoring utilities. | . ",
+    "url": "/se-iiith/index.html",
+    "relUrl": "/index.html"
+  },"1": {
+    "doc": "Just the Class",
+    "title": "Getting Started",
+    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Update _config.yml and README.md with your course information. Be sure to update the url and baseurl. | Configure a publishing source for GitHub Pages. Your course website is now live! | Edit and create .md Markdown files to add more content pages. | . Just the Class has been used by instructors at Stanford University (CS 161), UC Berkeley (Data 100), UC Santa Barbara (CSW8), Northeastern University (CS4530/5500), and Carnegie Mellon University (17-450/17-950). Share your course website and find more examples in the show and tell discussion! . Local development environment . Just the Class requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on Testing your GitHub Pages site locally with Jekyll. ",
+    "url": "/se-iiith/index.html#getting-started",
+    "relUrl": "/index.html#getting-started"
+  },"2": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/se-iiith/about/",
+    "relUrl": "/about/"
+  },"3": {
+    "doc": "About",
+    "title": "Table of contents",
+    "content": ". | About | Lecture | Resources | Assignments | . ",
+    "url": "/se-iiith/about/#table-of-contents",
+    "relUrl": "/about/#table-of-contents"
+  },"4": {
+    "doc": "About",
+    "title": "About",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
+    "url": "/se-iiith/about/",
+    "relUrl": "/about/"
+  },"5": {
+    "doc": "About",
+    "title": "Lecture",
+    "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
+    "url": "/se-iiith/about/#lecture",
+    "relUrl": "/about/#lecture"
+  },"6": {
+    "doc": "About",
+    "title": "Resources",
+    "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
+    "url": "/se-iiith/about/#resources",
+    "relUrl": "/about/#resources"
+  },"7": {
+    "doc": "About",
+    "title": "Assignments",
+    "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
+    "url": "/se-iiith/about/#assignments",
+    "relUrl": "/about/#assignments"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/se-iiith/announcements/",
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "/se-iiith/announcements/",
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "/se-iiith/announcements/",
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/se-iiith/calendar/",
+    "relUrl": "/calendar/"
+  },"12": {
+    "doc": "Calendar",
+    "title": "Introduction to Java",
+    "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
+    "url": "/se-iiith/calendar/#introduction-to-java",
+    "relUrl": "/calendar/#introduction-to-java"
+  },"13": {
+    "doc": "Calendar",
+    "title": "Basic Data Structures",
+    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
+    "url": "/se-iiith/calendar/#basic-data-structures",
+    "relUrl": "/calendar/#basic-data-structures"
+  },"14": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/se-iiith/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"15": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/se-iiith/schedule/",
+    "relUrl": "/schedule/"
+  },"16": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/se-iiith/schedule/",
+    "relUrl": "/schedule/"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/se-iiith/schedule/",
+    "relUrl": "/schedule/"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/se-iiith/schedule/",
+    "relUrl": "/schedule/"
+  },"19": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "url": "/se-iiith/schedule/",
+    "relUrl": "/schedule/"
+  },"20": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/se-iiith/schedule/",
+    "relUrl": "/schedule/"
+  },"21": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "/se-iiith/staff/",
+    "relUrl": "/staff/"
+  },"22": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Kevin Lin . me@example.com . Schedule an appointment . ",
+    "url": "/se-iiith/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"23": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Evil Kevin . me@example.com . I like teaching Computer Science! . More Evil Kevin . me@example.com . I like teaching Computer Science! . Really Evil Kevin . me@example.com . I like teaching Computer Science! . ",
+    "url": "/se-iiith/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  }
+}
