@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: CS6.401 Software Engineering
 nav_exclude: true
 permalink: index.html
 seo:
@@ -8,9 +8,9 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Software Engineering
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Welcome to the course website of CS6.401 Software Engineering. The details of syllabus, course plan, examinations can be found in the about page. Further details regarding the course can be found below:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
