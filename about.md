@@ -2,7 +2,7 @@
 layout: page
 title: CS6.401 Software Engineering
 description: >-
-    Course policies and information.
+    This is the course website of CS6.401 Software Engineering Course, an elective course offered by Software Engineering Research Center, IIIT Hyderabad, India.
 ---
 
 # About
