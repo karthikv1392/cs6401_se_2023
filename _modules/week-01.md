@@ -1,10 +1,10 @@
 ---
-title: Introduction to Java
+title: Course Overview
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 5
+: [Course Overview Slides](#)
+  : [Lecture Notes](#)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)

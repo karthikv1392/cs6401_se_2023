@@ -1,5 +1,5 @@
 ---
-title: Week 0 Announcement
+title: Welcome to CS6.401 SE
 week: 0
 date: 2019-04-01
 ---

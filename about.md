@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: CS6.401 Software Engineering
 description: >-
     Course policies and information.
 ---
