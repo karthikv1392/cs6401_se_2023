@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Week 1
-permalink: /lectures/week-1
-parent: Lectures
+title: Lectures
+permalink: /lectures/
+has_children: true
+nav_order: 3
 ---
 
-## Course Overview and Introduction to modeling
-
-
-
-## Additional Reading materials
+{:toc}
