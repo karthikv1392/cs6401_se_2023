@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
+name: Karthik Vaidhyanathan
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: karthik.vaidhyanathan@iiit.ac.in
+website: https://karthikvaidhyanathan.com
 photo: kevin.jpg
 ---
 

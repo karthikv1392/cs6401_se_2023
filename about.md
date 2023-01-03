@@ -21,9 +21,13 @@ description: >-
 This course will provide an overview of the principles and foundations of modern software engineering techniques (primarily design based). Topics include software subsystem modeling, architecture and design patterns, and design tradeoffs, with a focus on application of these concepts to concrete software problems.
 
 
-## Lecture
+## Lecture hours
 
-The lectures will be in-person and will held on every Monday and Thursday 2:00 PM to 3:30 PM. The lecture materials (slides, lecture notes if any) can be accessed (here)[https://karthikv1392.github.io/se-iiith/calendar/].
+The lectures will be in-person and will held on every *Monday and Thursday 2:00 PM to 3:30 PM*. The lecture materials (slides, lecture notes if any) can be accessed (here)[https://karthikv1392.github.io/se-iiith/calendar/].
+
+## Office Hours
+
+Every *Friday 11:00 AM to 12:00 PM*
 
 ## Resources
 

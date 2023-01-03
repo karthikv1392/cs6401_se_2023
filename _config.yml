@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS6.401 Software Engineering
-tagline: Course website of Software engineering
+title: Software Engineering
+tagline: Course website of CS6.401 Software engineering
 description: This is the website of the course offered by software engineering research center, IIIT Hyderabad.
 author: Karthik Vaidhyanathann
 baseurl: # the subpath of your site, e.g. /blog
