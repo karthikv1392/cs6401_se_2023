@@ -1,9 +1,9 @@
 ---
 name: Sidharth
 role: Teaching Assistant
-email:
+email: sidharth.giri@students.iiit.ac.in
 website:
-photo:
+photo: sidharth.png
 ---
 
 I like to build software systems

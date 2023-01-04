@@ -1,9 +1,9 @@
 ---
 name: Shambhavi Ojha
 role: Teaching Assistant
-email:
+email: shambhavi.ojha@students.iiit.ac.in
 website:
-photo:
+photo: shambhavi.png
 ---
 
-M.Tech Product, design and Management 
+M.Tech Product, design and Management

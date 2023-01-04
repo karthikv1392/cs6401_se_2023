@@ -1,9 +1,9 @@
 ---
 name: Annapoorani
 role: Teaching Assistant
-email:
+email: annapoorani.a@students.iiit.ac.in
 website:
-photo:
+photo: annapoorani.png
 ---
 
 I am an M.Tech CS student

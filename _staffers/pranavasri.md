@@ -1,9 +1,9 @@
 ---
 name: VJS Pranavasri
 role: Teaching Assistant
-email:
+email: vjs.pranavasri@research.iiit.ac.in
 website:
-photo:
+photo: pranav.png
 ---
 
 I like building softwares
