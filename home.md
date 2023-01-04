@@ -42,7 +42,7 @@ Every [Friday 11:00 AM to 12:00 PM](schedule.md). Apart from this if more meetin
 
 ### Useful tools:
 
-  1. UML - There are plenty of UML tools available such as StarUML, MagicDraw, etc. As far as this course is concerned it would be more than enough to use an open source UML tools such as: [Eclipse Papyrus UML](https://www.eclipse.org/papyrus/) or [Gaphor](https://gaphor.org/).
+  1. UML - There are plenty of UML tools available such as StarUML, MagicDraw, etc. As far as this course is concerned it would be more than enough to use an open source UML tools such as: [Eclipse Papyrus UML](https://www.eclipse.org/papyrus/) or [Gaphor](https://gaphor.org/). If you prefer text based modelling then [PlantUML](https://plantuml.com/) can be an excellent choice. Please don't make use of any normal diagramming tools for this course.
 
   2. Java IDE - This course will involve development in Java. There are many IDEs for Java available. We suggest to either use [Eclipse](https://www.eclipse.org/) or [Intellij IDEA Community edition](https://www.jetbrains.com/idea/download).
 
