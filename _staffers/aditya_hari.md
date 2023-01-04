@@ -3,7 +3,7 @@ name: Aditya Hari Kancharla
 role: Teaching Assistant
 email:
 website:
-photo:
+photo: aditya.png
 ---
 
 I am associated with LTRC
