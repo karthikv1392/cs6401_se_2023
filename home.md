@@ -20,16 +20,16 @@ description: >-
 
 ## About
 
-This course will provide an overview of the principles and foundations of modern software engineering techniques (primarily design based). Topics include software subsystem modeling, architecture and design patterns, and design tradeoffs, with a focus on application of these concepts to concrete software problems.
+This course will provide an overview of the principles and foundations of modern software engineering techniques (primarily design based). Topics include software subsystem modelling, refactoring, design patterns and software architecture with a focus on application of these concepts to concrete software problems.
 
 
 ## Lecture hours
 
-The lectures will be in-person and will held on every [Monday and Thursday 2:00 PM to 3:30 PM](schedule.md). The lecture materials (slides, lecture notes if any) can be accessed [here](lectures.md).
+The lectures will be in-person and will held on every [Monday and Thursday 2:00 PM to 3:30 PM](schedule.md) in Room no: SH2 (Vindhya). The lecture materials (slides, lecture notes if any and links to supporting resources) can be accessed [here](lectures.md).
 
 ## Office Hours
 
-Every [Friday 11:00 AM to 12:00 PM](schedule.md)
+Every [Friday 11:00 AM to 12:00 PM](schedule.md). Apart from this if more meetings or help is required, feel free to drop in an email to one of the [teaching assistants](https://karthikv1392.github.io/se-iiith/staff/)
 
 ## Resources
 
@@ -39,6 +39,13 @@ Every [Friday 11:00 AM to 12:00 PM](schedule.md)
   2. M. Fowler. Refactoring: Improving the design of existing Code, 2000. Addison Wesley. ISBN 0-201-48567-2.
   3. Design Patterns Elements of Reusable Object Oriented Software by Enrich Gamma, Richard Helm, Ralph Johnson and John Vlissides
   4.  Software Architecture in Practice (Third/Fourth edition) by Len Bass, Paul Clements and Rick Kazman, Addison-Wesley.
+
+### Useful tools:
+
+  1. UML - There are plenty of UML tools available such as StarUML, MagicDraw, etc. As far as this course is concerned it would be more than enough to use an open source UML tools such as: [Eclipse Papyrus UML](https://www.eclipse.org/papyrus/) or [Gaphor](https://gaphor.org/).
+
+  2. Java IDE - This course will involve development in Java. There are many IDEs for Java available. We suggest to either use [Eclipse](https://www.eclipse.org/) or [Intellij IDEA Community edition](https://www.jetbrains.com/idea/download).
+
 
 
 ## Assignments and Projects
