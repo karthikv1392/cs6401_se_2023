@@ -30,10 +30,10 @@
     "relUrl": "/calendar/#course-overview"
   },"5": {
     "doc": "Calendar",
-    "title": "Basic Data Structures",
-    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "/calendar/#basic-data-structures",
-    "relUrl": "/calendar/#basic-data-structures"
+    "title": "Introduction to Software Modeling",
+    "content": " ",
+    "url": "/calendar/#introduction-to-software-modeling",
+    "relUrl": "/calendar/#introduction-to-software-modeling"
   },"6": {
     "doc": "Home",
     "title": "Home",
