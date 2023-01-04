@@ -138,10 +138,10 @@
     "relUrl": "/schedule/"
   },"23": {
     "doc": "Staff",
-    "title": "Instructors",
+    "title": "Instructor",
     "content": "Karthik Vaidhyanathan . karthik.vaidhyanathan@iiit.ac.in . Schedule an appointment . ",
-    "url": "/staff/#instructors",
-    "relUrl": "/staff/#instructors"
+    "url": "/staff/#instructor",
+    "relUrl": "/staff/#instructor"
   },"24": {
     "doc": "Staff",
     "title": "Teaching Assistants",
