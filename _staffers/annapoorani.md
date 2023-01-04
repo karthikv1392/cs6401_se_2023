@@ -1,5 +1,5 @@
 ---
-name: Annapoorani
+name: Annapoorani A
 role: Teaching Assistant
 email: annapoorani.a@students.iiit.ac.in
 website:

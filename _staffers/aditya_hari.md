@@ -1,7 +1,7 @@
 ---
 name: Aditya Hari Kancharla
 role: Teaching Assistant
-email:
+email: aditya.hari@research.iiit.ac.in
 website:
 photo: aditya.png
 ---

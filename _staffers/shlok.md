@@ -1,7 +1,7 @@
 ---
-name: Shlok
+name: Shlok Pandey
 role: Teaching Assistant
-email:
+email: shlok.pandey@research.iiit.ac.in
 website:
 photo: shlok_dummy.png
 ---
