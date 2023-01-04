@@ -29,7 +29,7 @@ The lectures will be in-person and will held on every [Monday and Thursday 2:00 
 
 ## Office Hours
 
-Every [Friday 11:00 AM to 12:00 PM](schedule.md). Apart from this if more meetings or help is required, feel free to drop in an email to one of the [teaching assistants](https://karthikv1392.github.io/se-iiith/staff/)
+Every [Friday 11:00 AM to 12:00 PM](schedule.md). Apart from this if more meetings or help is required, feel free to drop in an email to one of the [teaching assistants](https://karthikv1392.github.io/cs6401_se/staff/)
 
 ## Resources
 
@@ -42,7 +42,7 @@ Every [Friday 11:00 AM to 12:00 PM](schedule.md). Apart from this if more meetin
 
 ### Useful tools:
 
-  1. UML - There are plenty of UML tools available such as StarUML, MagicDraw, etc. As far as this course is concerned it would be more than enough to use an open source UML tools such as: [Eclipse Papyrus UML](https://www.eclipse.org/papyrus/) or [Gaphor](https://gaphor.org/). If you prefer text based modelling then [PlantUML](https://plantuml.com/) can be an excellent choice. Please don't make use of any normal diagramming tools for this course.
+  1. UML - There are plenty of UML tools available such as StarUML, MagicDraw, etc. As far as this course is concerned it would be more than enough to use an open source UML tools such as: [Eclipse Papyrus UML](https://www.eclipse.org/papyrus/) or [Gaphor](https://gaphor.org/). If you prefer text based modelling then [PlantUML](https://plantuml.com/) can be an excellent choice. *Please don't make use of any normal diagramming tools for this course*.
 
   2. Java IDE - This course will involve development in Java. There are many IDEs for Java available. We suggest to either use [Eclipse](https://www.eclipse.org/) or [Intellij IDEA Community edition](https://www.jetbrains.com/idea/download).
 
