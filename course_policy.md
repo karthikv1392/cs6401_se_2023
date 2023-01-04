@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Course Policy
-nav_order: 1
-description: >-
+nav_order: 4
+description: The detailed policy of the course along with the mark distribution is listed here
+---
+
+## Course Policy
 
 The detailed policy of the course along with the mark distribution is listed here
-
----
 
 ## Extra Days and Soft Deadlines
 
