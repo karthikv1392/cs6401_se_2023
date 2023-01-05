@@ -1,9 +1,9 @@
 ---
-name: Sidharth Giri
+name: Shlok Pandey
 role: Teaching Assistant
-email: sidharth.giri@students.iiit.ac.in
+email: shlok.pandey@research.iiit.ac.in
 website:
-photo: sidharth.png
+photo: shlok.png
 ---
 
-I like to build software systems
+Developing software is fun!
