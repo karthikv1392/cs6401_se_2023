@@ -42,10 +42,10 @@
     "relUrl": "/course_policy/"
   },"7": {
     "doc": "Course Policy",
-    "title": "Extra Days and Soft Deadlines",
-    "content": ". | Each student will have 5 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit assignments post the deadline without incurring any penalty. | Every project will have a soft deadline followed by a hard deadline after 7 days. If the student submits an assignment/project after the soft deadline, he/she will be penalized for every additional day until the hard deadline (if they have exhausted their extra days quota). For example, lets assume that the soft deadline is Feb 3 2023. This implies that the hard deadline will be Feb 10, 2023. The student in this case will be allowed to submit until Feb 10 2023. Assuming that the student has his/her full quota of extra days, they can delay submissions until Feb 8 2023 after which the submission will be penalized for each additional day. | No submissions will be entertained post the hard deadline. | . ",
-    "url": "/course_policy/#extra-days-and-soft-deadlines",
-    "relUrl": "/course_policy/#extra-days-and-soft-deadlines"
+    "title": "Teaching and Learning Methodology",
+    "content": "This course is designed in such a manner to help learners get the essence of principles behind good software deign. To this end, the course will follow a problem based learning methodology. Learners will be taught concepts by making them work on real-life problems. This will promote deeper engagement, deeper understanding and resembles the true career situation. ",
+    "url": "/course_policy/#teaching-and-learning-methodology",
+    "relUrl": "/course_policy/#teaching-and-learning-methodology"
   },"8": {
     "doc": "Course Policy",
     "title": "Zero Tolerance on Plagiarism",
@@ -54,149 +54,155 @@
     "relUrl": "/course_policy/#zero-tolerance-on-plagiarism"
   },"9": {
     "doc": "Course Policy",
+    "title": "Extra Days and Soft Deadlines",
+    "content": ". | Each student will have 5 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit assignments post the deadline without incurring any penalty. | Every project will have a soft deadline followed by a hard deadline after 7 days. If the student submits an assignment/project after the soft deadline, he/she will be penalized for every additional day until the hard deadline (if they have exhausted their extra days quota). For example, lets assume that the soft deadline is Feb 3 2023. This implies that the hard deadline will be Feb 10, 2023. The student in this case will be allowed to submit until Feb 10 2023. Assuming that the student has his/her full quota of extra days, they can delay submissions until Feb 8 2023 after which the submission will be penalized for each additional day. | No submissions will be entertained post the hard deadline. | . ",
+    "url": "/course_policy/#extra-days-and-soft-deadlines",
+    "relUrl": "/course_policy/#extra-days-and-soft-deadlines"
+  },"10": {
+    "doc": "Course Policy",
     "title": "Grading policy",
     "content": ". | The students can request a re-evaluation of the grade until a week after the particular grade has been posted. After that the student may not discuss prior grades with the instructor. | There will be no make up quiz/activity/exam under any circumstances unless a prior permission is granted. | In case if a student is not able to submit an assignment/project on time, he/she can make use of extra days and soft deadline facility as explained above. No submissions will be entertained post the hard deadline. No e-mails from students regarding assignments extensions will be entertained. | Although project grades are assigned for the entire team, each individual may be given a higher or lower grade (up to 50%) based on his/her contribution. Individual contribution for each project/assignment will be measured through multiple mechanisms. | . ",
     "url": "/course_policy/#grading-policy",
     "relUrl": "/course_policy/#grading-policy"
-  },"10": {
+  },"11": {
     "doc": "Course Policy",
     "title": "Grade distribution",
     "content": "| Component | Weightage | . | Final Exam | 20% | . | Mid-term Quiz | 10% | . | Unit Assignments | 15% | . | 3 Unit Projects (3*15) | 45% | . | Other In-class activities | 10% | . Note: The course instructor deserves the right to make minor modifications to the above distribution based on the progress of the courses . ",
     "url": "/course_policy/#grade-distribution",
     "relUrl": "/course_policy/#grade-distribution"
-  },"11": {
+  },"12": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/home/",
     "relUrl": "/home/"
-  },"12": {
+  },"13": {
     "doc": "Home",
     "title": "Table of contents",
     "content": ". | About | Lecture hours | Office Hours | Resources . | Useful textbooks: | Useful tools: | . | Assignments and Projects | . ",
     "url": "/home/#table-of-contents",
     "relUrl": "/home/#table-of-contents"
-  },"13": {
+  },"14": {
     "doc": "Home",
     "title": "About",
     "content": "This course will provide an overview of the principles and foundations of modern software engineering techniques (primarily design based). Topics include software subsystem modelling, refactoring, design patterns and software architecture with a focus on application of these concepts to concrete software problems. ",
     "url": "/home/#about",
     "relUrl": "/home/#about"
-  },"14": {
+  },"15": {
     "doc": "Home",
     "title": "Lecture hours",
     "content": "The lectures will be in-person and will held on every Monday and Thursday 2:00 PM to 3:30 PM in Room no: SH2 (Vindhya). The lecture materials (slides, lecture notes if any and links to supporting resources) can be accessed here. ",
     "url": "/home/#lecture-hours",
     "relUrl": "/home/#lecture-hours"
-  },"15": {
+  },"16": {
     "doc": "Home",
     "title": "Office Hours",
     "content": "Every Friday 11:00 AM to 12:00 PM. Apart from this if more meetings or help is required, feel free to drop in an email to one of the teaching assistants . ",
     "url": "/home/#office-hours",
     "relUrl": "/home/#office-hours"
-  },"16": {
+  },"17": {
     "doc": "Home",
     "title": "Resources",
     "content": "Useful textbooks: . | UML@classroom: An Introduction to Object-Oriented Modeling by Martina Seidl, Marion Scholz, Christian Huemer and Gerti Kappel | M. Fowler. Refactoring: Improving the design of existing Code, 2000. Addison Wesley. ISBN 0-201-48567-2. | Design Patterns Elements of Reusable Object Oriented Software by Enrich Gamma, Richard Helm, Ralph Johnson and John Vlissides | Software Architecture in Practice (Third/Fourth edition) by Len Bass, Paul Clements and Rick Kazman, Addison-Wesley. | . Useful tools: . | UML - There are plenty of UML tools available such as StarUML, MagicDraw, etc. As far as this course is concerned it would be more than enough to use an open source UML tools such as: Eclipse Papyrus UML or Gaphor. If you prefer text based modelling then PlantUML can be an excellent choice. Please don’t make use of any normal diagramming tools for this course. | Java IDE - This course will involve development in Java. There are many IDEs for Java available. We suggest to either use Eclipse or Intellij IDEA Community edition. | . ",
     "url": "/home/#resources",
     "relUrl": "/home/#resources"
-  },"17": {
+  },"18": {
     "doc": "Home",
     "title": "Assignments and Projects",
     "content": "All the assignments, their grading policy will be posted here. ",
     "url": "/home/#assignments-and-projects",
     "relUrl": "/home/#assignments-and-projects"
-  },"18": {
+  },"19": {
     "doc": "CS6.401 Software Engineering",
     "title": "Software Engineering",
     "content": "Welcome to the course website of CS6.401 Software Engineering. The details of syllabus, course plan, examinations can be found in the home page. Further details regarding the course can be found below: . | a course calendar with materials, | a staff page, | and a weekly schedule. | List of lectures with additional content | . ",
     "url": "/index.html#software-engineering",
     "relUrl": "/index.html#software-engineering"
-  },"19": {
+  },"20": {
     "doc": "CS6.401 Software Engineering",
     "title": "CS6.401 Software Engineering",
     "content": " ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"20": {
+  },"21": {
     "doc": "Lectures",
     "title": "Lectures",
     "content": " ",
     "url": "/lectures/",
     "relUrl": "/lectures/"
-  },"21": {
+  },"22": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"22": {
+  },"23": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 2:00 PM–3:25 PM TBD | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"23": {
+  },"24": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"24": {
+  },"25": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": "| ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"25": {
+  },"26": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": ". | Lecture 2:00 PM–3:25 PM TBD | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"26": {
+  },"27": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Office Hours 12:00 PM–1:00 PM Office of Dr. Karthik, SERC, 5th Floor | . | . ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"27": {
+  },"28": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"28": {
+  },"29": {
     "doc": "Staff",
     "title": "Instructor",
     "content": "Karthik Vaidhyanathan . karthik.vaidhyanathan@iiit.ac.in . Schedule an appointment . ",
     "url": "/staff/#instructor",
     "relUrl": "/staff/#instructor"
-  },"29": {
+  },"30": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Aditya Hari Kancharla . aditya.hari@research.iiit.ac.in . I am associated with LTRC . Annapoorani A . annapoorani.a@students.iiit.ac.in . I am an M.Tech CS student . VJS Pranavasri . vjs.pranavasri@research.iiit.ac.in . I like building softwares . Shambhavi Ojha . shambhavi.ojha@students.iiit.ac.in . M.Tech Product, design and Management . Shlok Pandey . shlok.pandey@research.iiit.ac.in . Developing software is fun! . Sidharth Giri . sidharth.giri@students.iiit.ac.in . I like to build software systems . ",
     "url": "/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
-  },"30": {
+  },"31": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "/staff/",
     "relUrl": "/staff/"
-  },"31": {
+  },"32": {
     "doc": "Week 1",
     "title": "Course Overview and Introduction to modeling",
     "content": " ",
     "url": "/lectures/week-1#course-overview-and-introduction-to-modeling",
     "relUrl": "/lectures/week-1#course-overview-and-introduction-to-modeling"
-  },"32": {
+  },"33": {
     "doc": "Week 1",
     "title": "Additional Reading materials",
     "content": " ",
     "url": "/lectures/week-1#additional-reading-materials",
     "relUrl": "/lectures/week-1#additional-reading-materials"
-  },"33": {
+  },"34": {
     "doc": "Week 1",
     "title": "Week 1",
     "content": " ",
