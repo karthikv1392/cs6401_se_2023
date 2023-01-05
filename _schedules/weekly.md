@@ -35,8 +35,8 @@ schedule:
         location: TBD
   - name: Friday
     events:
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
+      - name: Instructor Office Hours
+        start: 11:00 AM
+        end: 12:00 PM
         location: Office of Dr. Karthik, SERC, 5th Floor
 ---

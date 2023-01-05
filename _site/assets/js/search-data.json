@@ -25,7 +25,7 @@
   },"4": {
     "doc": "Calendar",
     "title": "Course Overview",
-    "content": "Jan 5 Course Overview Slides Lecture Notes Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
+    "content": "Jan 5 Course Overview Slides ",
     "url": "/calendar/#course-overview",
     "relUrl": "/calendar/#course-overview"
   },"5": {
@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Schedule",
     "title": "Friday",
-    "content": ". | Office Hours 12:00 PM–1:00 PM Office of Dr. Karthik, SERC, 5th Floor | . | . ",
+    "content": ". | Instructor Office Hours 11:00 AM–12:00 PM Office of Dr. Karthik, SERC, 5th Floor | . | . ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"28": {
