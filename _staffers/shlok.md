@@ -6,4 +6,4 @@ website:
 photo: sidharth.png
 ---
 
-I like to build software systems
+Tweaking pipelines in Software Systems
