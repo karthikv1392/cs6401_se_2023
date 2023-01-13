@@ -7,7 +7,7 @@ parent: Lectures
 
 ## Introduction to Software Modeling and
 
-Software Modeling and UML Overview - [Download](https://karthikv1392.github.io/cs6401_se/slides/W2_L1_L2_Intro_Modeling.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/W2_L1_L2_Intro_Modeling.pdf)
 
 ## Additional Reading materials
 
@@ -21,4 +21,4 @@ Software Modeling and UML Overview - [Download](https://karthikv1392.github.io/c
   1. [Plant UML Online editor](https://plantuml-editor.kkeisuke.dev)
   2. [Plant UML base website](https://plantuml.com)
   3. [starUML](https://staruml.io)
-  4. Book on [Model-driven Software Engineering in Practice] (https://link.springer.com/book/10.1007/978-3-031-02549-5)
+  4. Book on [Model-driven Software Engineering in Practice](https://link.springer.com/book/10.1007/978-3-031-02549-5)
