@@ -84,7 +84,7 @@ Now that you’re done with refactoring, let’s see how the metrics have been i
 ## 3E Bonus - Automatic Refactoring  
 This is a bonus question. Automatic refactoring is a topic of great interest in software engineering research. As the name suggests, it is the process of automatically refactoring code according to certain constraints and requirements. Why not try our hand at this?  
 
-*Task 3E - Propose an approach for automating the process of refactoring code according to the requirements of this project (i.e addressing design smells with consideration for code metrics). While you don't need to implement this, you need to your solution in detail. You will be graded on the clarity and feasibility of your solution. Make reasonable assumptions, but feel free to think outside the box. And note that simple is fine, but frivolous is not.*
+*Task 3E - Propose an approach for automating the process of refactoring code according to the requirements of this project (i.e addressing design smells with consideration for code metrics). While you don't need to implement this, you need to describe your solution in detail. You will be graded on the clarity and feasibility of your solution. Make reasonable assumptions, but feel free to think outside the box. And note that simple is fine, but frivolous is not.*
 
 # Submission
 
