@@ -11,7 +11,7 @@ Welcome to the first project of the CS6.401. Software Engineering course. Your o
 
 Music, a web-based music server will serve as the testing ground for the project. The app can be used to organize your music collection and download music from different sources (well, that's what it can do for now). You can find the original repository at [https://github.com/sismics/music](https://github.com/sismics/music). We will use a class-specific fork which has been slightly streamlined for ease of use.  
 
-The project also contains two bonus components, which although optional are encouraged to be attempted, as these marks can help you make up for marks lost in other components. 
+The project also contains two bonus components, which although optional are encouraged to be attempted, as these can help you make up for marks lost in other components throughout the course.
 
 # GitHub Classroom
 
@@ -51,7 +51,7 @@ We now know how Music works. The next task is to know how *well* it works. For t
 
 ### 2a Design Smells
 
-Design smells are structures and patterns in code that while not incorrect, are indicative of violating fundamental design principles. These can hinder development by leading to recurring problems down the line and should be avoided. Many automated tools exist to identify these. We will use Sonarqube for this serving purpose in our project. The [official documentation](https://docs.sonarqube.org/latest/try-out-sonarqube/) is a good resource for learning how to use it.  
+Design smells are structures and patterns in code that while not incorrect, are indicative of violating fundamental design principles. These can hinder development by leading to recurring problems down the line and should be avoided. Many automated tools exist to identify these. We will use Sonarqube for serving this purpose in our project. The [official documentation](https://docs.sonarqube.org/latest/try-out-sonarqube/) is a good resource for learning how to use it.  
 
 Sonarqube identifies *code* smells in a given repository. Code smells are closely related to design smells, but are more specific in nature. Make sure that you list design smells, not code smells. Note that Sonarqube is not perfect, use your own judgement wherever. 
 
@@ -90,12 +90,13 @@ This is a bonus question. Automatic refactoring is a topic of great interest in 
 
 The submission for this phase will be through GitHub classroom. The codebase will be automatically downloaded at the deadline, so ensure that everything is up in time. No exceptions will be granted.   
 
-In addition to the code changes required for Task 3a, you also need to submit a report containing your responses for each task. The report should be present in the `docs` directory, titled `project1_<team_number>.pdf`.  
+In addition to the code changes required for Task 3a, you also need to submit a report containing your responses for each task. The report should be present in the `docs` directory, titled `project1_<team_number>.pdf`. If you are attempting the bonus, submit a separate document titled `project1_bonus_<team_number>.pdf` containing the corresponding responses. 
 
-In addition to the responses, accurately report the contribution of each team member at the end of the report. This will be considered when evaluating the project. 
+Accurately report the contribution of each team member at the end of the report. This will be considered when evaluating the project. 
 
 Soft deadline - 15th February, 2022
 
 Hard deadline - 22nd February, 2022
- 
+
+**Note: Bonus can be submitted till the hard deadline without any penalty. Late days are not applicable for bonus components**  
 The course policy menitioned on this website will be followed for late submissions and associated penalties/late days. 
