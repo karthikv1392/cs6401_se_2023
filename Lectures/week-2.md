@@ -5,7 +5,7 @@ permalink: /lectures/week-2
 parent: Lectures
 ---
 
-## Introduction to Software Modeling and
+## Introduction to Software Modeling and UML Overview
 
 [Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/W2_L1_L2_Intro_Modeling.pdf)
 
