@@ -17,7 +17,7 @@ The project also contains two bonus components, which although optional are enco
 
 You should be part of a team already. If not, quickly follow the instructions in [this Moodle post](https://courses.iiit.ac.in/mod/forum/discuss.php?d=32017) section to join your team.
 
-For this project, follow [this link](https://classroom.github.com/a/w8NFAxXI) to accept the assignment for you team. Your team will then be assigned a private repository on GitHub. This is where you will be working on the project. All relevant instructions for running the project will be present in the repository.   
+For this project, follow [this link](https://classroom.github.com/a/w8NFAxXI) to accept the assignment for your team. Your team will then be assigned a private repository on GitHub. This is where you will be working on the project. All relevant instructions for running the project will be present in the repository.   
 
 # Specification
 
