@@ -20,6 +20,8 @@ author: Karthik Vaidhyanathann
 baseurl: # the subpath of your site, e.g. /blog
 url: 'https://karthikv1392.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+favicon_ico: '/assets/images/favicon.png'
+favitype: 'image/png'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
