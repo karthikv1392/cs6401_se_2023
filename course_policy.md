@@ -42,4 +42,4 @@ This course requires student to submit assignments, participate in in-class acti
 | 3 Unit Projects (3*15) | 45%       |
 | Other In-class activities  | 10%       |
 
-*Note:* The course instructor deserves the right to make minor modifications to the above distribution based on the progress of the courses
+*Note:* The course instructor reserves the right to make minor modifications to the above distribution based on the progress of the courses
