@@ -59,7 +59,7 @@ Sonarqube identifies *code* smells in a given repository. Code smells are closel
 
 > PS - Sonarqube and the project itself require different Java versions to run. Instructions for handling this are provided in the project README 
 
-### 3.2b Code Metrics
+### 2b Code Metrics
 
 Code metrics are objective, repeatable, empirical measure of a project’s properties. Many tools exist for computing these for software repositories such as Checkstyle, PMD etc. We will use some of these tools to get some metrics for our project in its initial state. You are free to use any tools you find fit for this purpose.   
 
