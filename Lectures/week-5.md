@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 4
+title: Week 5
 permalink: /lectures/week-5
 parent: Lectures
 ---
