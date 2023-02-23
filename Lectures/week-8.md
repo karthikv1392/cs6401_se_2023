@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 8
-permalink: /lectures/week-7
+permalink: /lectures/week-8
 parent: Lectures
 ---
 
