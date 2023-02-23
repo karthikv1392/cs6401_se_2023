@@ -44,7 +44,7 @@ You have already improved how playlists work in Music. Let's extend this further
 - You need to submit a report containing the details of implementation, including the design patterns used and any changes made to existing code. The report should be present in the docs directory, titled `project2_<team_number>.pdf`. Accurately report the contribution of each team member at the end of this report.  
 - In case you attempt the bonus feature, you need to submit a separate report titled `project2_bonus_<team_number>.pdf`.
 
-Soft deadline: 23rd March, 2023  
-Hard deadline: 30th March, 2023  
+Soft deadline: 24rd March, 2023  
+Hard deadline: 31th March, 2023  
 
 The course policy menitioned on this website will be followed for late submissions and associated penalties/late days.
