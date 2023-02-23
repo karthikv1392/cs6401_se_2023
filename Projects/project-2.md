@@ -33,7 +33,7 @@ Music already support some degree of online integration. However, it is limited 
 In particular, Music should support the following features -
 
 1. Search for songs: LastFM and Spotify both allow you to search for songs. Use their APIs to allow users to search for songs in Music. Note that it should be possible for the user to choose which service to use.  
-2. Recommend songs based on playlist: Music allows users to create playlists. Spotify allows users to get recommendations similar to provided songs. Putting two and two together, we want to allow Music users to get recommendations from Spotify based on existing playlists. Concretely, given a list of songs, we want recommended songs from Spotify. A simple string representation of these recommendations is enough. 
+2. Recommend songs based on playlist: Music allows users to create playlists. Spotify and Lastfm allow users to get recommendations similar to provided songs. Putting two and two together, we want to allow Music users to get recommendations from these services based on existing playlists. Concretely, given a list of songs, we want recommended songs from Spotify or LastFm (based on users choice). A simple string representation of these recommendations is enough. 
 
 ## Bonus Feature: Even better library management 
 You have already improved how playlists work in Music. Let's extend this further. Users should be now able to designate public playlists as collaborative playlists. Only these playlists can be interacted with by all users, while a default public playlist should be read-only (i.e users can view songs in it but not add songs to it).   
