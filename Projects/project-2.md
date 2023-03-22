@@ -24,7 +24,7 @@ Our music player has a user management system already in place, which you have a
 
 ## Feature 2: Better library management
 
-In the current codebase, playlists created by a user are visible only to them. We want to modify Music to allows users to choose whether their created playlists should be visible to other users or not. A public playlist can be interacted with by other users (e.g. songs can be added to it).
+In the current codebase, songs added by a user to Music are visible to everyone. This is not ideal - not everyone wants to share all their music. Modify Music so that songs added by a user can be hidden from other users. Additionally, playlists created by a user are visible only to them. We want to modify Music to allows users to choose whether their created playlists should be visible to other users or not. A public playlist can be interacted with by other users (e.g. songs can be added to it).
 
 ## Feature 3: Online Integration
 
