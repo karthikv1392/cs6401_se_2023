@@ -17,6 +17,10 @@ This course is designed in such a manner to help learners get the essence of pri
 
 This course requires student to submit assignments, participate in in-class activities, give mid and final exams, work with groups on projects and so on. Any forms of cheating or plagiarism will result in a score of "0" for projects, assignments or exams. Egregious cases will result in a grade of "F" for the course.
 
+## Use of AI tools
+
+Students are free to use different AI tools like ChatGPT, Co-pilot, etc. for the course assignments/projects. However, please do mention what tools and how they have been used in the submission report. Remember the different demos given in the class on how sometimes these tools can mislead or provide wrong solutions. Its important to know the concept before using the tools. Tools are at the end-of-the day enablers. Today it will be ChatGPT tomorrow it will be something else but the concepts needs to be clear to leverage the different tools. Bottomline, feel free to use different tools but use them wisely!
+
 ## Extra Days and Soft Deadlines
 
   1. Each student will have 5 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit assignments post the deadline without incurring any penalty.
