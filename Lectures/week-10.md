@@ -11,7 +11,7 @@ parent: Lectures
 
 
 
-## Additional materials
+## Additional materials/References
 
 1. [ISO/IEC/IEEE 42010 Architectural Framework](https://www.iso.org/standard/50508.html)
 2. [c4model](https://c4model.com)
