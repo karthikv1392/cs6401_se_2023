@@ -7,7 +7,7 @@ parent: Lectures
 
 ## Software Architecture Framework
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/w10_L1_Architecture_Framework.pdf
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/w10_L1_Architecture_Framework.pdf)
 
 
 
