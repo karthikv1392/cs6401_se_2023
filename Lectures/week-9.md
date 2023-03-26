@@ -7,7 +7,7 @@ parent: Lectures
 
 ## Introduction to Software Architecture - Part 1
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/w9_L1_Intro_to_Software_Architecture.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w9_L1_Intro_to_Software_Architecture.pdf)
 
 ## Introduction to Software Architecture - Part 2
 
