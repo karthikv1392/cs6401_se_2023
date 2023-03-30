@@ -3,6 +3,7 @@ layout: page
 title: Week 1
 permalink: /lectures/week-1
 parent: Lectures
+nav_order: 1
 ---
 
 ## Course Overview and Introduction to modeling

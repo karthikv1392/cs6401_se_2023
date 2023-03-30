@@ -3,6 +3,7 @@ layout: page
 title: Week 7
 permalink: /lectures/week-7
 parent: Lectures
+nav_order: 7
 ---
 
 ## Design Patterns - Observer and Factory

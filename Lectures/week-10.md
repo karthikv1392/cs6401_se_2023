@@ -3,6 +3,7 @@ layout: page
 title: Week 10
 permalink: /lectures/week-10
 parent: Lectures
+nav_order: 10
 ---
 
 ## Software Architecture Framework

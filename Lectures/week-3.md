@@ -3,6 +3,7 @@ layout: page
 title: Week 3
 permalink: /lectures/week-3
 parent: Lectures
+nav_order: 3
 ---
 
 ## Introduction to Technical Debt, Refactoring and Design Smells

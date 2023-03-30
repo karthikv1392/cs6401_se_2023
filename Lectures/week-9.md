@@ -3,6 +3,7 @@ layout: page
 title: Week 9
 permalink: /lectures/week-9
 parent: Lectures
+nav_order: 9
 ---
 
 ## Introduction to Software Architecture - Part 1

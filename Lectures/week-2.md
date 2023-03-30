@@ -3,6 +3,7 @@ layout: page
 title: Week 2
 permalink: /lectures/week-2
 parent: Lectures
+nav_order: 2
 ---
 
 ## Introduction to Software Modeling and UML Overview

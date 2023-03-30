@@ -3,6 +3,7 @@ layout: page
 title: Week 6
 permalink: /lectures/week-6
 parent: Lectures
+nav_order: 6
 ---
 
 ## Design Principles and Introduction to Design Patterns

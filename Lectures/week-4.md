@@ -3,6 +3,7 @@ layout: page
 title: Week 4
 permalink: /lectures/week-4
 parent: Lectures
+nav_order: 4
 ---
 
 ## Modeling Dynamics of Software Systems

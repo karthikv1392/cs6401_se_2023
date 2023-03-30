@@ -3,6 +3,7 @@ layout: page
 title: Week 8
 permalink: /lectures/week-8
 parent: Lectures
+nav_order: 8
 ---
 
 ## Design Patterns - Command, Chain of Responsibility and Composite
