@@ -11,8 +11,8 @@ has_toc: false
 Welcome to the final project of the course! Breathe a sigh of relief because we are not working with Music for this project, or any existing repository for that matter.  
 The goal of this project is to put to use what you've learnt about software architecture. For this, you will design the architecture of a system according to the specified requirements. You are free to use any language or framework.  
 You are required to choose **one** of the following two systems - 
-- [Project A - CineStream Platform](/Projects/project-3/OTT)
-- [Project B - Smart City System](/Projects/project-3/IOT) 
+- [Project A - CineStream Platform](/cs6401_se/Projects/project-3/OTT)
+- [Project B - Smart City System](/cs6401_se/Projects/project-3/IOT) 
 
 ## Submission 
 We will use GitHub classrooms for this project. Follow [this](https://classroom.github.com/a/oaTypZ7Q) link to accept the assignment. 
