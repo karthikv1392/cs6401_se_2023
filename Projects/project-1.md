@@ -3,6 +3,7 @@ layout: page
 title: Project 1
 permalink: /projects/project-1
 parent: Projects
+nav_order: 1
 ---
 
 # Overview
