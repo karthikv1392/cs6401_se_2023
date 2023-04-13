@@ -25,7 +25,7 @@ nav_order: 12
 ## Additional materials/References on Microservices
 
 1. [Building Microservices by Sam Newman ](https://tinyurl.com/y5p5ajfl)
-2. [Microservices Patterns: with Java, Chris Richardson]((https://tinyurl.com/yy9zyu9x)
+2. [Microservices Patterns: with Java, Chris Richardson](https://tinyurl.com/yy9zyu9x)
 3. [Microservices patterns](https://microservices.io/)
 4. [Best practices at Netflix](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 5. [Chaos Engineering at Netflix - Video](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=1032s)
