@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 3
+title: Week 3 - Refactoring and Technical Debt
 permalink: /lectures/week-3
 parent: Lectures
 nav_order: 3

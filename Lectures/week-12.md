@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 12
+title: Week 12 - Architectural Patterns, Microservices
 permalink: /lectures/week-12
 parent: Lectures
 nav_order: 12

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 1 - Introduction and Modeling
 permalink: /lectures/week-1
 parent: Lectures
 nav_order: 1

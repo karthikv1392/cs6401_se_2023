@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Week 11
+layout: page 
+title: Week 11 - Architectural Tactics
 permalink: /lectures/week-11
 parent: Lectures
 nav_order: 11

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 10
+title: Week 10 - Software Architecture
 permalink: /lectures/week-10
 parent: Lectures
 nav_order: 10

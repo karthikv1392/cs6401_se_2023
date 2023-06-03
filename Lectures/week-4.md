@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 4
+title: Week 4 - Modeling Dynamics
 permalink: /lectures/week-4
 parent: Lectures
 nav_order: 4

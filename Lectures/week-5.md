@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 5
+title: Week 5 - Code Smells and Metrics
 permalink: /lectures/week-5
 parent: Lectures
 nav_order: 5

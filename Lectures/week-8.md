@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 8
+title: Week 8 - Design Patterns 2
 permalink: /lectures/week-8
 parent: Lectures
 nav_order: 8
