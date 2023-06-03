@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 2
+title: Week 2 - Modeling
 permalink: /lectures/week-2
 parent: Lectures
 nav_order: 2
