@@ -8,13 +8,13 @@ nav_order: 5
 
 ## Code Smells and Code Metrics
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w5_L1_code_smells_code_metrics.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/w5_L1_code_smells_code_metrics.pdf)
 
 ## Additional Reading materials
 
 1. Mining Source Code Repositories - [An Interview with Prof. Andreas Zeller: Mining your way to software reliability](https://dl.acm.org/doi/10.1145/1880066.1883621)
 
-2. More about code metrics - [Source Code Metrics: A Systematic Mapping Study]([Download Lecture Notes](ttps://karthikv1392.github.io/cs6401_se/resources/Lecture_notes_on_Modeling_dynamics_of_software_systems-v1.pdf))
+2. More about code metrics - [Source Code Metrics: A Systematic Mapping Study]([Download Lecture Notes](ttps://karthikv1392.github.io/cs6401_se_2023/resources/Lecture_notes_on_Modeling_dynamics_of_software_systems-v1.pdf))
 
 
 ## Additional resources

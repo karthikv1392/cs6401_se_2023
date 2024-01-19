@@ -8,11 +8,11 @@ nav_order: 9
 
 ## Introduction to Software Architecture - Part 1
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w9_L1_Intro_to_Software_Architecture.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/w9_L1_Intro_to_Software_Architecture.pdf)
 
 ## Introduction to Software Architecture - Part 2
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/w9_L2_Intro_to_Software_Architecture.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/w9_L2_Intro_to_Software_Architecture.pdf)
 
 
 ## Additional materials

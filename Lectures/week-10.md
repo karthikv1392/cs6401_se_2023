@@ -8,7 +8,7 @@ nav_order: 10
 
 ## Software Architecture Framework
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w10_L1_Architecture_Framework.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/w10_L1_Architecture_Framework.pdf)
 
 
 

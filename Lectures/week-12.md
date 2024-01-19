@@ -8,12 +8,12 @@ nav_order: 12
 
 ## Software Architecture Patterns
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/W11_L2_Patterns_Styles.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/W11_L2_Patterns_Styles.pdf)
 
 
 ## Designing Microservices
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/W12_L1_Microservices_Design.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/W12_L1_Microservices_Design.pdf)
 
 
 ## Additional materials/References on Architectural Patterns

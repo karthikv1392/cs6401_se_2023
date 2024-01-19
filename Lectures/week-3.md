@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Introduction to Technical Debt, Refactoring and Design Smells
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w3_L1_L2_Intro_to_Refactoring_Design_Smells.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/w3_L1_L2_Intro_to_Refactoring_Design_Smells.pdf)
 
 ## Additional Reading materials
 

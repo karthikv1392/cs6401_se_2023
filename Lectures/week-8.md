@@ -8,7 +8,7 @@ nav_order: 8
 
 ## Design Patterns - Command, Chain of Responsibility and Composite
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w8_L1_Design_Patterns_Command_CoR_Composite)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/w8_L1_Design_Patterns_Command_CoR_Composite)
 
 
 ## Additional materials
