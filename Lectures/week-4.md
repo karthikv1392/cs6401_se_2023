@@ -12,8 +12,8 @@ nav_order: 4
 
 ## Additional Reading materials
 
-[1. Lecture notes on Modeling Software Systems](https://karthikv1392.github.io/cs6401_se/slides/W4_AM_Lecture_notes_on_Modeling_dynamics_of_software_systems.pdf)   
-[2. Crash course in transition systems](https://karthikv1392.github.io/cs6401_se/slides/W4_AM_TS_for_Modeling.pdf)
+[1. Lecture notes on Modeling Software Systems](https://karthikv1392.github.io/cs6401_se_2023/slides/W4_AM_Lecture_notes_on_Modeling_dynamics_of_software_systems.pdf)   
+[2. Crash course in transition systems](https://karthikv1392.github.io/cs6401_se_2023/slides/W4_AM_TS_for_Modeling.pdf)
 
 
 ## Additional resources

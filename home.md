@@ -29,7 +29,7 @@ The lectures will be in-person and will held on every [Monday and Thursday 2:00 
 
 ## Office Hours
 
-Every [Friday 11:00 AM to 12:00 PM](schedule.md). Apart from this if more meetings or help is required, feel free to drop in an email to one of the [teaching assistants](https://karthikv1392.github.io/cs6401_se/staff/)
+Every [Friday 11:00 AM to 12:00 PM](schedule.md). Apart from this if more meetings or help is required, feel free to drop in an email to one of the [teaching assistants](https://karthikv1392.github.io/cs6401_se_2023/staff/)
 
 ## Resources
 
