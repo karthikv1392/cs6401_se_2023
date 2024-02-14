@@ -8,7 +8,7 @@ nav_order: 13
 
 ## Event Driven Architectures
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/W13_L1_EDA.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/W13_L1_EDA.pdf)
 
 ## Additional materials/References on EDA
 

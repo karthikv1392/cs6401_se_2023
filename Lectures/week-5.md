@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Code Smells and Code Metrics
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w5_L1_code_smells_code_metrics.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/w5_L1_code_smells_code_metrics.pdf)
 
 ## Additional Reading materials
 

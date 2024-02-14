@@ -8,7 +8,7 @@ nav_order: 11
 
 ## Software Architecture Tactics
 
-[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se/slides/w11_L1_Architectural_Tactics.pdf)
+[Download Lecture Slides](https://karthikv1392.github.io/cs6401_se_2023/slides/w11_L1_Architectural_Tactics.pdf)
 
 
 
